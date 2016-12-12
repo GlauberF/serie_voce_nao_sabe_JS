@@ -1,8 +1,6 @@
-# Você Não SABE JS (série de Livros)
+# Você Não Sabe JS? (série de Livros)
 
-ESTA E UMA série de Livros que Mergulha com profundidade OS MECANISMOS de Fundamentos da linguagem JavaScript. A Primeira edição da série ágora ESTÁ completa.
-
-Esse repositório é uma tradução do repositório orginal (https://github.com/getify/You-Dont-Know-JS).
+ESTA E UMA série de Livros que Mergulha com profundidade OS MECANISMOS de Fundamentos da linguagem JavaScript, do básico ao avançado. A Primeira edição da série ágora ESTÁ completa.
 
 <a href="começando/README.md#you-dont-know-js-up--going"><img src="começando/cover.jpg" width="75"></a>&nbsp;
 <a href="Escopo e closures/README.md#you-dont-know-js-scope--closures"><img src="Escopo e closures/cover.jpg" width="75"></a>&nbsp;
@@ -37,3 +35,5 @@ Acompanhe através da nossa página livros traduzidos, treinamentos online, webn
 
 ## Contribuições
 Fique a vontade para contribuir com conhecimento.
+
+Esse repositório é uma tradução do repositório orginal (https://github.com/getify/You-Dont-Know-JS).
