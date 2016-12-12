@@ -4,12 +4,12 @@ ESTA E UMA série de Livros que Mergulha com profundidade OS MECANISMOS de Funda
 
 Esse repositório é uma tradução do repositório orginal (https://github.com/getify/You-Dont-Know-JS).
 
-<a href="#"><img src="começando/cover.jpg" width="75"></a>&nbsp;
-<a href="#"><img src="Escopo e closures/cover.jpg" width="75"></a>&nbsp;
-<a href="#"><img src="this e objetos prototypes/cover.jpg" width="75"></a>&nbsp;
-<a href="#"><img src="types e gramática/cover.jpg" width="75"></a>&nbsp;
-<a href="#"><img src="Desempenho assíncrono/cover.jpg" width="75"></a>&nbsp;
-<a href="#"><img src="eES6 e além/cover.jpg" width="75"></a>
+<a href="começando/README.md#you-dont-know-js-up--going"><img src="começando/cover.jpg" width="75"></a>&nbsp;
+<a href="Escopo e closures/README.md#you-dont-know-js-scope--closures"><img src="Escopo e closures/cover.jpg" width="75"></a>&nbsp;
+<a href="this e objetos prototypes/README.md#you-dont-know-js-this--object-prototypes"><img src="this e objetos prototypes/cover.jpg" width="75"></a>&nbsp;
+<a href="types e gramática/README.md#you-dont-know-js-types--grammar"><img src="types e gramática/cover.jpg" width="75"></a>&nbsp;
+<a href="Desempenho assíncrono/README.md#you-dont-know-js-async--performance"><img src="Desempenho assíncrono/cover.jpg" width="75"></a>&nbsp;
+<a href="ES6 e além/README.md#you-dont-know-js-es6--beyond"><img src="ES6 e além/cover.jpg" width="75"></a>
 
 Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing processes, and are thus not necessarily as important for this repository.
 
@@ -22,7 +22,7 @@ Please feel free to contribute to the quality of this content by submitting PR's
 * Leia Online (free!): ["this & Object Prototypes"](this e objetos prototypes/README.md#you-dont-know-js-this--object-prototypes)
 * Leia Online (free!): ["Types & Grammar"](types e gramática/README.md#you-dont-know-js-types--grammar)
 * Leia Online (free!): ["Async & Performance"](Desempenho assíncrono/README.md#you-dont-know-js-async--performance)
-* Leia Online (free!): ["ES6 & Beyond"]eES6 e além/README.md#you-dont-know-js-es6--beyond)
+* Leia Online (free!): ["ES6 & Beyond"](ES6 e além/README.md#you-dont-know-js-es6--beyond)
 
 
 ## Página no Facebook
