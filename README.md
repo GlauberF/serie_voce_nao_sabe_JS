@@ -11,7 +11,7 @@ Esse repositório é uma tradução do repositório orginal (https://github.com/
 <a href="Desempenho assíncrono/README.md#you-dont-know-js-async--performance"><img src="Desempenho assíncrono/cover.jpg" width="75"></a>&nbsp;
 <a href="ES6 e além/README.md#you-dont-know-js-es6--beyond"><img src="ES6 e além/cover.jpg" width="75"></a>
 
-Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing processes, and are thus not necessarily as important for this repository.
+Por favor, sinta-se livre para contribuir para a qualidade deste conteúdo, enviando melhorias de trechos de código, explicações, etc.. Para esse repositório.
 
 **Para ler mais sobre as motivações e perspectivas por trás dessa série de livros, confira o [Preface](preface.md).**
 
