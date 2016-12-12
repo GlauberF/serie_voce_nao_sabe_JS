@@ -29,7 +29,8 @@ Please feel free to contribute to the quality of this content by submitting PR's
 
 Acompanhe através da nossa página livros traduzidos, treinamentos online, webnar e muito mais [Facebook](https://www.facebook.com/glauber.funez).
 
-## Outros Livros
+## Outros Livros/preview
+<a href="https://books.google.com.br/books?id=S9NhDQAAQBAJ&printsec=frontcover&dq=Segredos+do+Ninja+JavaScript&hl=pt-BR&sa=X&redir_esc=y#v=onepage&q=Segredos%20do%20Ninja%20JavaScript&f=false">Segredos do Ninja JavaScript</a><br/>
 <a href="http://exploringjs.com/es2016-es2017/">ES2016-ES2017</a><br/>
 <a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript">Learning JavaScript Design Patterns</a><br/>
 <a href="https://books.google.com.br/books?id=4B5WDQAAQBAJ&pg=PA20&lpg=PA20&dq=download+JavaScript+de+alto+desempenho&source=bl&ots=0KQqcDLZrO&sig=gYqv8DSryCEzalmw5SrOdMSdzWA&hl=pt-BR&sa=X&ved=0ahUKEwjQwp38we7QAhWDf5AKHSqqCa0Q6AEITDAI#v=onepage&q&f=true">JavaScript de Alto Desempenho</a><br/>
