@@ -27,7 +27,7 @@ Please feel free to contribute to the quality of this content by submitting PR's
 
 ## Página no Facebook
 
-Acompanhe através da nossa página livros traduzidos, treinamentos online, webnar e muito mais [available through Pluralsight](https://www.facebook.com/glauber.funez).
+Acompanhe através da nossa página livros traduzidos, treinamentos online, webnar e muito mais [Facebook](https://www.facebook.com/glauber.funez).
 
 ## Outros Livros
 <a href="http://exploringjs.com/es2016-es2017/">ES2016-ES2017</a><br/>
